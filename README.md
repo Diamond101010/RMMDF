@@ -1,4 +1,4 @@
-# MMDF: Multi-model Deep Fusion for Salient Object Detection
+# Recursive Multi-model Deep Fusion for Robust Salient Object Detection
 <hr>
 
 Saliency maps of the paper " Multi-model Deep Fusion for Salient Object Detection ",can download at google dirve .
