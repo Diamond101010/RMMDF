@@ -1,6 +1,6 @@
 # Recursive Multi-model Deep Fusion for Robust Salient Object Detection
 
-## abstract
+## Abstract
 Fully convolutional networks have shown outstanding performance in the image salient object detection field. The current main stream methods have a tendency to become deeper and more complex, which easily homogenize its learned deep features, reaching the performance bottleneck. In sharp contrast to the conventional “deeper” schemes, we propose a “wider” network architecture by constructing a novel framework with parallel sub networks to further improve the detection performance. We enforce each sub network (with total different network architectures) to focus on different saliency perspectives via using independent saliency loss to ensure a large feature diversity. Meanwhile, to handle the feature confliction problem, which is occasionally occurred in the parallel networks, we construct dense short-connections to enable a recursively interaction between our parallel sub networks, pursuing an optimal complementary status between multi-model deep features. All these complementary multi-model deep features will be selectively fused to make high performance saliency predictions.
 ### Visual comparison with previous start-of-the-arts
 
